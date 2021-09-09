@@ -13,8 +13,8 @@ body {
     margin: 0 auto; /* Выравниваем по центру */
     position: relative; /* Относительное позиционирование */
    }
-   #header {
-    background: #8fa09b; /* Цвет фона */
+   header {
+    background: red; /* Цвет фона */
     font-size: 24pt; /* Размер текста */
     font-weight: bold; /* Жирное начертание */
     color: #edeed5; /* Цвет текста */
@@ -34,7 +34,7 @@ body {
     top: 60px; /* Положение от верхнего края */
     width: 120px; /* Ширина */
    }
-   #footer {
+   footer {
     background: #8fa09b; /* Цвет фона */
     color: #fff; /* Цвет текста */
     padding: 5px; /* Отступы вокруг текста */
